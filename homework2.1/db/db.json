@@ -1,0 +1,14 @@
+{
+  "user": {
+    "login": "vl.sulimov@mail.ru",
+    "password": "qwe123"
+  },
+  "skills": {
+    "age": "3",
+    "concerts": "3",
+    "cities": "3",
+    "years": "1"
+  },
+  "products": [
+  ]
+}
